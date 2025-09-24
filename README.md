@@ -1,1 +1,1 @@
-# reactjs-exp14-fetch-restapi-data
+Below is the output of the experiment, where the React application fetches data from the public API (JSONPlaceholder) and displays it in a table format with proper handling of loading and error states.# reactjs-exp14-fetch-restapi-data
